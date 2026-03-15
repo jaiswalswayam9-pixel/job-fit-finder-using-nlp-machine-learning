@@ -1,0 +1,21 @@
+# Environments
+.venv/
+antigravity_venv/
+.env
+.env.local
+
+# Python 
+__pycache__/
+*.pyc
+*.pyo
+
+# Build & Outputs
+outputs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs & Secrets
+*.log
+.streamlit/secrets.toml
