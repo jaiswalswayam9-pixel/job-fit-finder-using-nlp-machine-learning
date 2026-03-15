@@ -12,8 +12,6 @@
 
 ---
 
-## 🌐 Live Demo
-👉 [Click here to try JobFitFinder](https://job-fit-finder.streamlit.app/)
 
 ---
 
@@ -28,17 +26,6 @@
 - ⚡ **3 second analysis** — Fast end-to-end pipeline
 
 ---
-
-## 🖼️ Screenshots
-
-### Home Page
-![Home](assets/home.png)
-
-### Candidate Portal — Resume Analysis
-![Candidate](assets/candidate.png)
-
-### Job Recommendations with Fit Score
-![Results](assets/results.png)
 
 ---
 
